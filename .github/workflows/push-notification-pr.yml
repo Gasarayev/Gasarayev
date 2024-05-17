@@ -2,14 +2,13 @@ name: Push Notification
 
 on: 
   push: 
-      branches:
-          -main
-          -dev
-          -dev-*
-          -test
-  pull_reuest:
-      types: [opened, synchronize, reopened, closed]          
-
+    branches:
+      - main
+      - dev
+      - dev-*
+      - test
+  pull_request:
+    types: [opened, synchronize, reopened, closed]          
 
 jobs:
   notify:
@@ -24,10 +23,10 @@ jobs:
            to: ${{ secrets.MAIL_TO }}
            username: ${{ secrets.MAIL_USERNAME }}
            password: ${{ secrets.MAIL_PASSWORD }}
-           subject: ${{github.event_name}} Notification
+           subject: ${{ github.event_name }} Notification
            body: |
-              There has been a new ${{github.event_name}} in the repository
-              Repository: ${{github.repository}}
-              Branch: ${{github.ref}}
-              Action by: ${{github.actor}}
-              Action: ${{github.event.action}} 
+              There has been a new ${{ github.event_name }} event in the repository
+              Repository: ${{ github.repository }}
+              Branch: ${{ github.ref }}
+              Action by: ${{ github.actor }}
+              Action: ${{ github.event.action || 'N/A' }}
