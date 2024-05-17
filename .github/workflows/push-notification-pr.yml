@@ -30,4 +30,4 @@ jobs:
             Repository : ${{github.repository}}
             Branch : ${{github.ref}}
             Action by : ${{github.actor}}
-            Action : ${{github.event.action}} 
+            Action : ${{github.event.action}}  
