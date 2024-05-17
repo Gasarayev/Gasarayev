@@ -1,7 +1,7 @@
 name: Push Notification
 
-on: 
-  push: 
+on:
+  push:
     branches:
       - main
       - dev
@@ -16,7 +16,6 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Send email notification
         uses: dawidd6/action-send-mail@v3
