@@ -16,6 +16,7 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Send email notification
         uses: dawidd6/action-send-mail@v3
