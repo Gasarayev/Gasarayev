@@ -29,4 +29,4 @@ jobs:
               Repository: ${{ github.repository }}
               Branch: ${{ github.ref }}
               Action by: ${{ github.actor }}
-              Action: ${{ github.event.action || 'N/A' }}
+              Action: ${{ github.event.action || 'N/A' }} 
