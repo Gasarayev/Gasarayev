@@ -9,9 +9,6 @@ on:
       - test
   pull_request:
     types: [opened, synchronize, reopened, closed]
-  create:
-    branches:
-      - dev-*    
 
 jobs:
   notify:
