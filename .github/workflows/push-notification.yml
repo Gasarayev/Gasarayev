@@ -1,0 +1,17 @@
+name : Push Notification
+on: [push]
+jobs: 
+  notify:
+    run-on: ubunto-latest
+    steps: 
+      - name: Send email notification
+        uses: dawidd6/action-send-mail@v3
+        with: 
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{secrets.EMAIL}} 
+          password: ${{secrets.PASSWORD}}
+          subject: "Push Notification"
+          body: "Push Notification"
+          to: "Push Notification"
+          from: "Push Notification"
