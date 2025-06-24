@@ -5,7 +5,7 @@
 📍 Baku, Azerbaijan  
 📞 +994 (55) 970-79-78  
 📧 gasarayev.emil@gmail.com  
-[💼 LinkedIn]([https://linkedin.com/in/emilgasarayev](https://www.linkedin.com/in/emil-gasarayev-b14747223/)) • [🐙 GitHub](https://github.com/Gasarayev)
+[💼 LinkedIn](https://www.linkedin.com/in/emil-gasarayev-b14747223/) • [🐙 GitHub](https://github.com/Gasarayev)
 
 ---
 
