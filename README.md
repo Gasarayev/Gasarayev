@@ -3,7 +3,6 @@
 ## 🚀 Front-end Developer
 [🌐 emilgasarayev.com](https://emilgasarayev.com)
 📍 Baku, Azerbaijan  
-📞 +994 (55) 970-79-78  
 📧 gasarayev.emil@gmail.com  
 [💼 LinkedIn](https://www.linkedin.com/in/emil-gasarayev-b14747223/) • [🐙 GitHub](https://github.com/Gasarayev)
 
