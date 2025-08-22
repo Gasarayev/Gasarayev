@@ -57,54 +57,18 @@
 
 ### 👨‍🏫 Code Academy Azerbaijan — *Teacher Assistant*  
 📍 Baku | 🗓️ Feb 2025 – Present
-- Ensure full attendance in classes during the academic period.
-- Provide technical knowledge support to students.
-- Organize laboratory sessions (LAB hours).
-- Monitor student attendance.
-- Prepare and submit monthly reports on the progress of the group.
-- Contribute to improving the quality of teaching.
-- Facilitate communication by directing inquiries to the relevant departments.
-
 
 ### 🧠 Sigma LLC — *SEO Specialist (remote)*  
 📍 Baku | 🗓️ Jun 2024 – Present
-- Perform on-page optimization, including internal linking, metadata, keyword usage, and density.
-- Develop link-building strategies, boosting domain authority by 10 points.
-- Stay up to date with the latest SEO trends and search engine algorithm updates.
-- Identify and correct SEO errors using Google Search Console, improving crawl efficiency by 15%.
-- Manage SEO projects across multiple teams, ensuring deadlines are met and results are achieved.
-- Troubleshoot SEO challenges effectively, maintaining smooth workflows and reducing downtime by
-20%.
 
 ### 🌧️ Dam Yagmuru — *Frontend Developer*  
 📍 Baku | 🗓️ Nov 2024 – Feb 2025
-- Participating in the development of DamYağmuru.az website.
-- Utilizes technologies such as HTML, CSS, Bootstrap, JavaScript, AJAX, and jQuery.
-- Works closely with the backend to ensure seamless integration of all system components.
-- Optimizes SEO performance by improving meta tags, page titles, descriptions, and site loading
-speed.
-- Implements responsive design methods to ensure an excellent user experience across various
-devices, including mobile.
 
 ### 🧪 Barattson MMC — *Frontend Intern*  
 📍 Baku | 🗓️ Sep 2024 – Dec 2024
-- Gained experience working with JS, React, Redux, HTML, SCSS, Bootstrap, and Git.
-- Contributed to improving user experience by adding new features to existing projects.
-- Developed and optimized simple user interface components using React.js.
-- Strengthened algorithmic thinking and problem-solving skills through practical tasks.
-- Learned to work effectively in a team environment and supported the on-time completion of
-projects.
-
 
 ### 📈 Webzool Creative — *SEO Specialist (remote)*  
 📍 Baku | 🗓️ May 2022 – Jun 2024
-- Researched market trends, demographics, pricing strategies, and other relevant information to help
-managers and directors develop marketing plans.
-- Supported the marketing manager or director in carrying out various strategies and tasks.
-- Initiated and executed link-building strategies, leading to a 40% increase in referring domains.
-- Specialized in YouTube SEO, optimizing video content for search visibility and engagement.
-- Optimized video content for YouTube, increasing video viewership by 30% and subscriber count by
-15%.
 
 ---
 
@@ -121,10 +85,3 @@ managers and directors develop marketing plans.
 - Code Academy — *Advanced Fullstack Frontend Programming*
 - Evo Academy — *Frontend Developer*
 - Campus Academia — *Leadership, Career, Communication*
-
----
-
-## 🌍 Languages
-- Azerbaijani — C2
-- Turkish — C1
-- English — B1
