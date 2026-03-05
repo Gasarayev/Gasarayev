@@ -55,20 +55,19 @@
 
 ## 💼 Professional Experience
 
-### 👨‍🏫 Code Academy Azerbaijan — *Teacher Assistant*  
-📍 Baku | 🗓️ Feb 2025 – Present
+### 🏠 Interiome Group — *Frontend Developer* 📍 Baku | 🗓️ Oct 2025 – Present
 
-### 🧠 Sigma LLC — *SEO Specialist (remote)*  
-📍 Baku | 🗓️ Jun 2024 – Present
+### 🔍 Thinking IT Corp — *Off-page SEO Specialist (freelance)* 📍 Remote | 🗓️ Oct 2025 – Present
 
-### 🌧️ Dam Yagmuru — *Frontend Developer*  
-📍 Baku | 🗓️ Nov 2024 – Feb 2025
+### 👨‍🏫 Code Academy Azerbaijan — *Teacher Assistant* 📍 Baku | 🗓️ Feb 2025 – Oct 2025
 
-### 🧪 Barattson MMC — *Frontend Intern*  
-📍 Baku | 🗓️ Sep 2024 – Dec 2024
+### 🧠 Sigma LLC — *SEO Specialist (remote)* 📍 Baku | 🗓️ Jun 2024 – Oct 2025
 
-### 📈 Webzool Creative — *SEO Specialist (remote)*  
-📍 Baku | 🗓️ May 2022 – Jun 2024
+### 🌧️ Dam Yagmuru — *Frontend Developer* 📍 Baku | 🗓️ Nov 2024 – Feb 2025
+
+### 🧪 Barattson MMC — *Frontend Intern* 📍 Baku | 🗓️ Sep 2024 – Dec 2024
+
+### 📈 Webzool Creative — *SEO Specialist (remote)* 📍 Baku | 🗓️ May 2022 – Jun 2024
 
 ---
 
